@@ -1,5 +1,7 @@
 # Questões da matéria de algoritmos UEPB
 
+## Lista I
+### Questões sobre int, float, str, if e else
 N | Questao | Situacao
 -------|------|---------
 1 |  Faca um Programa que peca um numero e entao mostre a mensagem: O numero informado foi [numero]. | Feito
@@ -15,21 +17,40 @@ N | Questao | Situacao
 11 |  Faca um algoritmo que receba um valor que foi depositado e exiba o valor com rendimento apos um mes. Considere fixo o juro da poupanca em 0,70% a. m. | Feito
 12 |  A Loja Mamao com Acucar esta vendendo seus produtos em 5 (cinco) prestacoes sem juros. Faca um algoritmo que receba um valor de uma compra e mostre o valor das prestacoes. | Feito
 13 |  Faca um algoritmo que receba o preco de custo de um produto e mostre o valor de venda. Sabe-se que o preco de custo recebera um acrescimo de acordo com um percentual informado pelo usuario. | Feito
-14 |  Escrever um algoritmo para determinar o consumo medio de um automovel sendo fornecida a distancia total percorrida pelo automovel e o total de combustivel gasto. | A fazer
-15 |  Escreva um programa que leia tres numeros inteiros e positivos (A, B, C) e calcule a seguinte expressao: D = (R+S)/2 onde R = (A+B)^2 e S = (B+C)^2 | A fazer
-16 |Escrever um algoritmo que leia o nome de um vendedor, o seu salário fixo e o total de vendas efetuadas por ele no mês (em dinheiro). Sabendo que este vendedor ganha 15% de comissão sobre suas vendas efetuadas, informar o seu nome, o salário fixo e salário no final do mês. | A fazer
-17 |Faça um Programa que peça 2 números inteiros e um número real. Calcule e mostre: a) o produto do dobro do primeiro com metade do segundo. b) a soma do triplo do primeiro com o terceiro. c) o terceiro elevado ao cubo.| A fazer
-18 |Tendo como dados de entrada a altura de uma pessoa, construa um algoritmo que calcule seu peso ideal, usando a seguinte fórmula: (72.7*altura) – 58. | A fazer
-19 |Faça um programa que peça o tamanho de um arquivo para download (em MB) e a velocidade de um link de Internet (em MBps), calcule e informe o tempo aproximado de download do arquivo usando este link (em minutos). | A fazer
-20 |Ler dois valores para as variáveis A e B, e efetuar as trocas dos valores de forma que a variável A passe a possuir o valor da variável B e a variável B passe a possuir o valor da variável A. Apresentar os valores trocados. | A fazer
-21 |Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e mostre o total do seu salário no referido mês, sabendo-se que são descontados 11% para o Imposto de Renda, 8% para o INSS e 5% para o sindicato, faça um programa que nos dê: a) salário bruto. b) quanto pagou ao INSS. c) quanto pagou ao sindicato. e) calcule os descontos e o salário líquido, conforme a tabela abaixo:| A fazer
+14 |  Escrever um algoritmo para determinar o consumo medio de um automovel sendo fornecida a distancia total percorrida pelo automovel e o total de combustivel gasto. | Feito
+15 |  Escreva um programa que leia tres numeros inteiros e positivos (A, B, C) e calcule a seguinte expressao: D = (R+S)/2 onde R = (A+B)^2 e S = (B+C)^2 | Feito
+16 |Escrever um algoritmo que leia o nome de um vendedor, o seu salário fixo e o total de vendas efetuadas por ele no mês (em dinheiro). Sabendo que este vendedor ganha 15% de comissão sobre suas vendas efetuadas, informar o seu nome, o salário fixo e salário no final do mês. | Feito
+17 |Faça um Programa que peça 2 números inteiros e um número real. Calcule e mostre: a) o produto do dobro do primeiro com metade do segundo. b) a soma do triplo do primeiro com o terceiro. c) o terceiro elevado ao cubo.| Feito
+18 |Tendo como dados de entrada a altura de uma pessoa, construa um algoritmo que calcule seu peso ideal, usando a seguinte fórmula: (72.7*altura) – 58. | Feito
+19 |Faça um programa que peça o tamanho de um arquivo para download (em MB) e a velocidade de um link de Internet (em MBps), calcule e informe o tempo aproximado de download do arquivo usando este link (em minutos). | Feito
+20 |Ler dois valores para as variáveis A e B, e efetuar as trocas dos valores de forma que a variável A passe a possuir o valor da variável B e a variável B passe a possuir o valor da variável A. Apresentar os valores trocados. | Feito
+21 |Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e mostre o total do seu salário no referido mês, sabendo-se que são descontados 11% para o Imposto de Renda, 8% para o INSS e 5% para o sindicato, faça um programa que nos dê: a) salário bruto. b) quanto pagou ao INSS. c) quanto pagou ao sindicato. e) calcule os descontos e o salário líquido, conforme a tabela abaixo: ![q21](imagens\q21.png) | Feito
 
-~~~python
-"""
-Salário Bruto : R$
-IR (11%) : R$
-INSS (8%) : R$
-Sindicato ( 5%) : R$
-Salário Liquido : R$
-"""
-~~~
+## Lista II
+
+N | Questao | Situacao
+-------|------|---------
+22 |  Faca um Programa que peca dois numeros e imprima o maior deles.  | A fazer
+23 |  Faca um Programa que peca um valor e mostre na tela se o valor e positivo ou negativo.  | A fazer
+24 |  Faca um Programa que verifique se uma letra digitada e "F" ou "M". Conforme a letra escrever: F - Feminino, M - Masculino, Sexo Invalido.  | A fazer
+25 |  Faca um programa para a leitura de duas notas parciais de um aluno. O programa deve calcular a media alcancada por aluno e apresentar: a) mensagem "Aprovado", se a média alcançada for maior ou igual a sete; b) A mensagem "Reprovado", se a média for menor do que sete; c) A mensagem "Aprovado com Distinção", se a média for igual a dez. | A fazer
+26 |  Faca um Programa que leia tres numeros e mostre o maior deles.  | A fazer
+27 |  Faca um programa que pergunte o preco de tres produtos e informe qual produto voce deve comprar, sabendo que a decisao e sempre pelo mais barato.  | A fazer
+28 |  Faca um Programa que pergunte em que turno voce estuda. Peca para digitar M-matutino ou V-Vespertino ou N- Noturno. Imprima a mensagem "Bom Dia!", "Boa Tarde!" ou "Boa Noite!" ou "Valor Invalido!", conforme o caso.  | A fazer
+29 |  As Organizacoes Tabajara resolveram dar um aumento de salario aos seus colaboradores e lhe contrataram para desenvolver o programa que calculara os reajustes. Faca um programa que recebe o salario de um colaborador e o reajuste segundo o seguinte criterio, baseado no salario atual: ![q29](imagens\q29.png) Após o aumento ser realizado, informe na tela: ![q291](imagens\q291.png)| A fazer
+30 |  Faca um programa para o calculo de uma folha de pagamento, sabendo que os descontos sao do Imposto de Renda, que depende do salario bruto (conforme tabela abaixo) e 3% para o Sindicato e que o FGTS corresponde a 11% do Salario Bruto, mas nao e descontado (e a empresa que deposita). O Salario Liquido corresponde ao Salario Bruto menos os descontos. O programa devera pedir ao usuario o valor da sua hora e a quantidade de horas trabalhadas no mes. Desconto do IR: a) Salario Bruto ate 900 (inclusive) - isento a) Salario Bruto ate 1500 (inclusive) - desconto de 5% b) Salario Bruto ate 2500 (inclusive) - desconto de 10% c) Salario Bruto acima de 2500 - desconto de 20%. Imprima na tela as informacoes, dispostas conforme o exemplo abaixo. No exemplo o valor da hora e 5 e a quantidade de hora e 220. ![q30](imagens\q30.png) | A fazer
+31 |  Faca um Programa que leia um numero e exiba o dia correspondente da semana. (1-Domingo, 2- Segunda, etc.), se digitar outro valor deve aparecer valor invalido.  | A fazer
+32 |  Faca um programa que le as duas notas parciais obtidas por um aluno numa disciplina ao longo de um semestre, e calcule a sua media. A atribuicao de conceitos obedece a tabela abaixo: ![q32](imagens\q32.png) O algoritmo deve mostrar na tela as notas, a media, o conceito correspondente e a mensagem "APROVADO" se o conceito for A, B ou C ou "REPROVADO" se o conceito for D ou E.  | A fazer
+33 |  Faca um Programa que peca os 3 lados de um triangulo. O programa devera informar se os valores podem ser um triangulo. Indique, caso os lados formem um triangulo, se o mesmo e: equilatero, isosceles ou escaleno. Dicas: Tres lados formam um triangulo quando a soma de quaisquer dois lados for maior que o terceiro; Triangulo Equilatero: tres lados iguais; Triangulo isosceles: quaisquer dois lados iguais; Triangulo Escaleno: tres lados diferentes; | A fazer
+34 |  Faca um programa que calcule as raizes de uma equacao do segundo grau, na forma ax2 + bx + c. O programa devera pedir os valores de a, b e c e fazer as consistencias, informando ao usuario nas seguintes situacoes: Se o usuario informar o valor de A igual a zero, a equacao nao e do segundo grau e o programa nao deve fazer pedir os demais valores, sendo encerrado; Se o delta calculado for negativo, a equacao nao possui raizes reais. Informe ao usuaro e encerre o programa;  | A fazer
+35 |  Se o delta calculado for igual a zero a equacao possui apenas uma raiz real; informe-a ao usuario; Se o delta for positivo, a equacao possui duas raiz reais; informe-as ao usuario;  | A fazer
+36 |  Faca um Programa que peca um numero correspondente a um determinado ano e em seguida informe se este ano e ou nao bissexto.  | A fazer
+37 |  Faca um Programa para leitura de tres notas parciais de um aluno. O programa deve calcular a media alcancada por aluno e apresentar: a) A mensagem "Aprovado", se a media for maior ou igual a 7, com a respectiva media alcancada;b) A mensagem "Reprovado", se a media for menor do que 7, com a respectiva media alcancada; c) A mensagem "Aprovado com Distincao", se a media for igual a 10 | A fazer
+38 |  Faca um Programa para um caixa eletronico. O programa devera perguntar ao usuario a valor do saque e depois informar quantas notas de cada valor serao fornecidas. As notas disponiveis serao as de 1, 5, 10, 50 e 100 reais. O valor minimo e de 10 reais e o maximo de 600 reais. O programa nao deve se preocupar com a quantidade de notas existentes na maquina. Exemplo 1: Para sacar a quantia de 256 reais, o programa fornece duas notas de 100, uma nota de 50, uma nota de 5 e uma nota de 1; Exemplo 2: Para sacar a quantia de 399 reais, o programa fornece tres notas de 100, uma nota de 50, quatro notas de 10, uma nota de 5 e quatro notas de 1 | A fazer
+39 |  Faca um Programa que peca um numero inteiro e determine se ele e par ou impar.  | A fazer
+40 |  Faca um Programa que leia 2 numeros e em seguida pergunte ao usuario qual operacao ele deseja realizar. O resultado da operacao deve ser acompanhado de uma frase que diga se o numero e: par ou impar; positivo ou negativo; inteiro ou decimal. | A fazer
+41 |  Faca um programa que faca 5 perguntas para uma pessoa sobre um crime. As perguntas sao: a) "Telefonou para a vitima?" b) "Esteve no local do crime?" c) "Mora perto da vitima?" d) "Devia para a vitima?" e) "Ja trabalhou com a vitima?" O programa deve no final emitir uma classificacao sobre a participacao da pessoa no crime. Se a pessoa responder positivamente a 2 questoes ela deve ser classificada como "Suspeita", entre 3 e 4 como "Cumplice" e 5 como "Assassino". Caso contrario, ele sera classificado como "Inocente".  | A fazer
+42 |  Um posto esta vendendo combustiveis com a seguinte tabela de descontos: ![q42](imagens\q42.png) Escreva um programa que leia o numero de litros vendidos, o tipo de combustivel (codificado da seguinte forma: A-alcool, G-gasolina), calcule e imprima o valor a ser pago pelo cliente sabendo-se que o preco do litro da gasolina e R$ 2,50 o preco do litro do alcool e R$ 1,90 | A fazer
+43 |  Uma fruteira esta vendendo frutas com a seguinte tabela de precos: ![q43](![alt text](imagens\q43.png)) Se o cliente comprar mais de 8 Kg em frutas ou o valor total da compra ultrapassar R$ 25,00, recebera ainda um desconto de 10% sobre este total. Escreva um algoritmo para ler a quantidade (em Kg) de morangos e a quantidade (em Kg) de macas adquiridas e escreva o valor a ser pago pelo cliente | A fazer
+44 |  Elabore um algoritmo que dada a idade de um nadador classifica-o em uma das seguintes categorias: infantil A = 5 - 7 anos; infantil B = 8-10 anos; juvenil A = 11-13 anos; juvenil B = 14-17 anos; adulto = maiores de 18 anos. | A fazer
+45 |  Tendo como dados de entrada a altura e o sexo de uma pessoa, construa um algoritmo que calcule seu peso ideal, utilizando as seguintes formulas: para homens: (72 .7*h) - 58 e para mulheres: (62 .1*h) - 44 .7 (h = altura | A fazer
