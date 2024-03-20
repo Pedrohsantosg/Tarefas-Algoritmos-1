@@ -53,7 +53,12 @@ N | Questao | Situacao
 42 |  Um posto esta vendendo combustiveis com a seguinte tabela de descontos: ![q42](https://cdn.discordapp.com/attachments/715218092560613476/1217599840624840814/image.png?ex=66049d37&is=65f22837&hm=1e04c27e382e649916a3e09cadde8faa06bb0a2acc99d4f1cc289b97fd837a38&) Escreva um programa que leia o numero de litros vendidos, o tipo de combustivel (codificado da seguinte forma: A-alcool, G-gasolina), calcule e imprima o valor a ser pago pelo cliente sabendo-se que o preco do litro da gasolina e R$ 2,50 o preco do litro do alcool e R$ 1,90 | Feito
 43 |  Uma fruteira esta vendendo frutas com a seguinte tabela de precos: ![q43](https://cdn.discordapp.com/attachments/715218092560613476/1217600154874548344/image.png?ex=66049d82&is=65f22882&hm=b035b8250dedcf3cf9af2382ee1d2380ef1851c397e1a734bf9870bf06fcbce0&) Se o cliente comprar mais de 8 Kg em frutas ou o valor total da compra ultrapassar R$ 25,00, recebera ainda um desconto de 10% sobre este total. Escreva um algoritmo para ler a quantidade (em Kg) de morangos e a quantidade (em Kg) de macas adquiridas e escreva o valor a ser pago pelo cliente | Feito
 44 |  Elabore um algoritmo que dada a idade de um nadador classifica-o em uma das seguintes categorias: infantil A = 5 - 7 anos; infantil B = 8-10 anos; juvenil A = 11-13 anos; juvenil B = 14-17 anos; adulto = maiores de 18 anos. | Feito
-45 |  Tendo como dados de entrada a altura e o sexo de uma pessoa, construa um algoritmo que calcule seu peso ideal, utilizando as seguintes formulas: para homens: (72 .7*h) - 58 e para mulheres: (62 .1*h) - 44 .7 (h = altura | Feito46 |  | A fazer
+45 |  Tendo como dados de entrada a altura e o sexo de uma pessoa, construa um algoritmo que calcule seu peso ideal, utilizando as seguintes formulas: para homens: (72 .7*h) - 58 e para mulheres: (62 .1*h) - 44 .7 (h = altura | Feito
+
+## Lista III
+
+N | Questao | Situacao
+-------|------|---------
 46 | Escreva um programa que calcula a média de 30 alunos e informa a situação(reprovado, aprovado ou recuperação). | A fazer
 47 | Escreva um programa que leia 10 números e informe o maior e o menor número. | A fazer
 48 | Escreva um programa que calcula o fatorial de um dado número N. | A fazer
